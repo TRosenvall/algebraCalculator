@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  AlgebraViewController.swift
 //  AlgebraCalculator
 //
 //  Created by Timothy Rosenvall on 7/16/19.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class AlgebraViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
